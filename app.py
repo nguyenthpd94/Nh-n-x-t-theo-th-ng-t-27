@@ -106,7 +106,7 @@ def process_ai_response_unique(content, target_level, needed_count):
 st.markdown("""
 <div class="header-box">
     <h1>💎 TRỢ LÝ NHẬN XÉT TIỂU HỌC TT27</h1>
-    <p>Tác giả: Nguyễn Văn Nguyên - TRường Tiểu học Phương Độv</p>
+    <p>Tác giả: Nguyễn Văn Nguyên - Trường Tiểu học Phương Độ </p>
 </div>
 """, unsafe_allow_html=True)
 
