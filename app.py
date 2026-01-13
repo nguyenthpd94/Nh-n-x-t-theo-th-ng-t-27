@@ -257,4 +257,4 @@ if student_file:
             st.error(f"Lỗi xử lý: {e}")
 
 # --- FOOTER ---
-st.markdown("<div style='text-align:center; margin-top:50px; color:#888;'>© 2026 - Thầy Sần Tool</div>", unsafe_allow_html=True)
+st.markdown("<div style='text-align:center; margin-top:50px; color:#888;'>© 2026 - Thầy Nguyên Tool</div>", unsafe_allow_html=True)
